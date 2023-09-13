@@ -1,0 +1,10 @@
+{
+  "name": "@fabmobqc/cds-types",
+  "version": "0.0.1",
+  "description": "CDS types for Typescript",
+  "author": "La Fabrique des Mobilités Québec",
+  "devDependencies": {
+    "@turf/helpers": "^6.5.0",
+    "crypto": "^1.0.1"
+  }
+}
